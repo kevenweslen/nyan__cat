@@ -1,6 +1,16 @@
 body{
-background-image: url(./imagens/nyan__piano.gif);
+background-image: url(/imagens/nyan__piano.gif);
 background-repeat: no-repeat;
 background-size:cover ;
 background-attachment: fixed;
+background-color: darkblue;
+}
+
+.container{
+    background-color: white;
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
